@@ -64,6 +64,7 @@ El objetivo del análisis competitivo es investigar y evaluar los principales co
 
 #### 2.2.2. Registro de entrevistas
 ##Entrevista #1
+![1.](images/cap2/foto_entrevistas.png)
 
 https://drive.google.com/file/d/17AFZaJjcbcRVmYiHYgJDLiXQZu9t8cME/view?usp=sharing
 
