@@ -99,8 +99,8 @@ https://drive.google.com/file/d/17AFZaJjcbcRVmYiHYgJDLiXQZu9t8cME/view?usp=shari
 
 Desarrollados a partir de las entrevistas.
 
-
-
+![1.](images/cap2/User_Persona_1.png)
+![1.](images/cap2/User_Persona_2.png)
 ---
 
 #### 2.3.2. User Task Matrix
@@ -118,10 +118,11 @@ Desarrollados a partir de las entrevistas.
 #### 2.3.3. User Journey Mapping
 
 Se construyeron mapas que detallan las etapas de experiencia de los usuarios al encontrar Oasis.
+![1.](images/cap2/Customer_Journey.png)
 
 #### 2.3.4. Empathy Mapping
 
-
+![1.](images/cap2/Empathy_Map.png)
 
 #### 2.3.5. As-is Scenario Mapping
 
