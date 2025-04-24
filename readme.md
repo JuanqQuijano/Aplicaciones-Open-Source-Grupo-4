@@ -122,7 +122,7 @@ Se construyeron mapas que detallan las etapas de experiencia de los usuarios al 
 
 #### 2.3.4. Empathy Mapping
 
-![7.](images/cap2/Empathy_Map.png)
+![7.](images/cap2/EmpathyMap.png)
 
 #### 2.3.5. As-is Scenario Mapping
 
