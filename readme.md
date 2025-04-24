@@ -63,15 +63,34 @@ El objetivo del análisis competitivo es investigar y evaluar los principales co
 
 
 #### 2.2.2. Registro de entrevistas
-##Entrevista #1
+Entrevista #1 - Juan Calderón.
+-
 ![1.](images/cap2/foto_entrevistas.png)
+https://drive.google.com/file/d/17AFZaJjcbcRVmYiHYgJDLiXQZu9t8cME/view?usp=sharing
 
+
+Entrevista #2 - Vero Rojas
+-
+![1.](images/cap2/foto_entrevistas2.png)
+https://drive.google.com/file/d/17AFZaJjcbcRVmYiHYgJDLiXQZu9t8cME/view?usp=sharing
+
+Entrevista #3 César León
+-
+![1.](images/cap2/foto_entrevistas3.png)
 https://drive.google.com/file/d/17AFZaJjcbcRVmYiHYgJDLiXQZu9t8cME/view?usp=sharing
 
 
 #### 2.2.3. Análisis de entrevistas
 
+-Todos los entrevistados tuvieron en común el que se sentirían más seguros al tener un intermediario a la hora de hospedarse en un lugar, no solo para glamping.
 
+-El medio de pago preferido fué tarjeta de crédito, se apreciaban las cuotas de ser posible.
+
+-Los filtros más repetidos fueron la capacidad de personas, precio y lugar. 
+
+-Curiosamente, la región más solicitada fué la sierra. 
+
+-Dos de tres solo habían pensado en reservar por medio de contactos cercanos.
 
 
 ### 2.3. Needfinding
@@ -131,8 +150,6 @@ En el contexto del desarrollo del proyecto **Oasis**, hemos definido un lenguaje
 | **Panel del anfitrión**       | Herramienta dentro de Oasis que permite a los anfitriones gestionar sus espacios, reservas y responder consultas. |
 | **Reseña comunitaria**        | Comentario que un usuario deja luego de una experiencia, útil para futuros viajeros. |
 | **Mapa de alojamientos**      | Visualización geográfica de todos los hospedajes disponibles en la plataforma Oasis. |
-
----
 
 Este vocabulario facilita la comunicación entre diseñadores, desarrolladores, testers y stakeholders durante todas las fases del proyecto.
 
