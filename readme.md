@@ -26,7 +26,7 @@ Convertirnos en la plataforma líder de turismo de naturaleza de lujo accesible 
 |------|--------|--------|-------------|
 | ![]() | Nombre: | Código: | Descripción: |
 | ![]() | Nombre: | Código: | Descripción: |
-| ![Daniel Ruiz](images/cap1/Daniel.jpeg) | Daniel Elias Ruiz Huisa | 202210764 | Soy un estudiante entusiaste que busca sacar el maximo provecho al aprendisaje. Adoro los videojuegos, la matematica oculta detras de los algoritmos y la musica. |
+| ![Daniel Ruiz](images/cap1/Daniel.jpeg) | Daniel Elias Ruiz Huisa | 202210764 | Soy un estudiante entusiaste que busca sacar el maximo provecho al aprendizaje. Adoro los videojuegos, la matematica oculta detras de los algoritmos y la musica. |
 | ![]() | Nombre: | Código: | Descripción: |
 | ![]() | Nombre: | Código: | Descripción: |
 
