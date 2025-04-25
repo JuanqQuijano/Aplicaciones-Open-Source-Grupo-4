@@ -310,6 +310,10 @@ To-Be Scenario Mapping para usuario emprendedor que brinda servicios de hospedaj
 
 
 #### 3.3. Impact Mapping.
+![Impact map 1](https://github.com/user-attachments/assets/e63fca84-eaa7-43b5-8e14-9cc0b165d7d8)
+![Impact map 2](https://github.com/user-attachments/assets/3b2b5ab0-7de4-4523-a42b-60edca703e9a)
+
+
 ---
 
 ##  Ubiquitous Language
