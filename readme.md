@@ -338,3 +338,89 @@ Este vocabulario facilita la comunicación entre diseñadores, desarrolladores, 
 
 
 ---
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+Nuestro producto busca transmitir una experiencia de lujo accesible, relajante y cercana a la naturaleza. Hemos definido un tono de comunicación casual, respetuoso y sereno.
+
+### 4.1.1. General Style Guidelines
+
+- **Logo**:  
+  El logo combina elementos naturales y modernos:
+  - ✈️ Avión: Viaje y conexión con destinos.
+  - 🌴 Palmera y 🌊 mar: Tranquilidad y contacto natural.
+  - 🌕 Luna llena: Noches al aire libre.
+  - Colores suaves que transmiten descanso.
+
+- **Tipografía**:  
+  - Títulos: *Poppins*, tamaño 56px.  
+  - Cuerpo: *Open Sans*.
+
+- **Colores de Marca**:
+  - Verde pastel: `#CFFFD8`
+  - Turquesa suave: `#76E3D1`
+
+- **Colores secundarios**:
+  - Azul océano: `#3CBCCF`
+  - Verde marino: `#289C99`
+  - Amarillo lunar: `#F5FDE3`
+
+- **Tonos oscuros**:
+  - Negro profundo: `#001A23`
+  - Gris azulado oscuro: `#2A3A3F`
+  - Gris medio: `#4A5A5F`
+
+- **Tonos claros**:
+  - Gris claro: `#BFCFCC`
+  - Blanco humo: `#F1F8F6`
+  - Blanco puro: `#FFFFFF`
+
+### 4.1.2. Web Style Guidelines
+
+- Paleta: Turquesa y azul marino.
+- Navegación intuitiva:
+  - Menú superior: Inicio, Destinos, Experiencias, Eventos.
+- Titular:  
+  **"TU DESTINO TE ESTÁ ESPERANDO"** (fondo turquesa claro).
+- Subtítulo:  
+  _"DESCUBRE DESTINOS SORPRENDENTES"_
+- Botón CTA: **"INGRESA AQUÍ"**
+
+### 4.1.3. Mobile Style Guidelines
+
+- Colores: Menta pastel + Azul marino oscuro.
+- Logo: Avión, luna y palmeras.
+- Textos:
+  - Título: *OASIS PERÚ*
+  - Eslogan: "TU DESTINO TE ESTÁ ESPERANDO"
+  - Subtexto: "DESCUBRE LUGARES SORPRENDENTE"
+- Botón: **"INGRESA AQUÍ"**
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+- **Usuarios**:  
+  - Jerarquía para navegación: Inicio > Destinos > Experiencias > Eventos.
+  - Lineal para reservas: Ubicación → Servicios → Pago.
+
+- **Anfitriones**:  
+  - Jerarquía para publicar hospedajes, editar, ver reservas y estadísticas.
+
+### 4.2.2. Labeling Systems
+
+- Barra de navegación:  
+  “Explora”, “Reserva”, “Conecta”, “Relájate”, “Disfruta”.
+
+- Etiquetas por tipo de experiencia:  
+  _"Romántico"_, _"Aventura"_, _"Relax"_, _"Familiar"_.
+
+### 4.2.3. SEO Tags and Meta Tags
+
+```html
+<title>Glamping Perú - Vive la naturaleza con estilo</title>
+<meta charset="utf-8">
+<meta name="description" content="Plataforma de reservas de glamping en el Perú. Escapadas únicas, accesibles y personalizadas para reconectar con la naturaleza sin perder el confort.">
+<meta name="author" content="Equipo Glamping Perú">
+<meta name="copyright" content="© 2025 Glamping Perú">
