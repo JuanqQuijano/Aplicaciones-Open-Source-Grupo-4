@@ -282,7 +282,17 @@ Se construyeron mapas que detallan las etapas de experiencia de los usuarios al 
 | **Thinking**           | “Quiero algo diferente, tranquilo, en contacto con la naturaleza.” <br> “No sé dónde buscar glamping real, no solo cabañas bonitas.”                         | “Hay muchas páginas, pero ninguna parece especializada en esto.” <br> “¿Cómo sé si este lugar es seguro, ecológico o accesible?”            | “¿Este perfil será confiable? ¿Y si no es lo que muestran las fotos?” <br> “Tengo que revisar muchas plataformas para estar seguro.”        | “Ojalá existiera una sola plataforma donde todo esté verificado y adaptado al estilo glamping que busco.”                                  |
 | **Feeling**            | - Curiosidad por vivir una experiencia nueva y natural. <br> - Confusión por la falta de información centralizada.                                        | - Frustración al comparar muchas opciones sin claridad. <br> - Inseguridad respecto a las condiciones reales de los espacios.               | - Ansiedad al no saber si la reserva fue segura. <br> - Cansancio por la cantidad de pasos involucrados en el proceso.                     | - Deseo de compartir su experiencia, pero sin un canal o comunidad específica. <br> - Esperanza de que una futura app simplifique todo.     |
 
+## Capítulo III: Requirements Elicitation Specification
+#### 3.1. To-Be Scenario Mapping
+To-Be Scenario Mapping para usuario que reserva
+![To-Be Scenario Mapping](https://github.com/user-attachments/assets/c0902ccd-d0d7-4af7-bd49-1c11ff7c4f3f)
 
+To-Be Scenario Mapping para usuario emprendedor que brinda servicios de hospedaje
+![To-Be Scenario Map para el emprendedor rural](https://github.com/user-attachments/assets/d591716f-0f91-4415-ac2c-6ee025a00ed8)
+
+#### 3.2. User Stories. 
+
+#### 3.3. Impact Mapping.
 ---
 
 ##  Ubiquitous Language
