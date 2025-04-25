@@ -1,3 +1,153 @@
+## Capítulo I: Daniel
+
+### 1.1. Startup Profile
+
+#### 1.1.1. Descripción de la Startup
+
+**Ecosphere** es una plataforma digital que aborda el desafío de la inaccesibilidad del turismo de lujo estilo glamping para gran parte de la población. En un contexto donde el turismo se está reactivando como motor económico en el Perú luego del impacto de la pandemia, nuestra solución busca democratizar esta forma de viaje, ofreciendo una experiencia personalizada, asequible y descentralizada.
+
+Nos comprometemos a ofrecer una alternativa sostenible, inclusiva e innovadora para personas de todos los niveles socioeconómicos. Desde jóvenes viajeros y familias hasta profesionales que buscan desconexión en la naturaleza, nuestro servicio brinda la oportunidad de disfrutar de escapadas únicas en contacto con el entorno natural sin renunciar al confort.
+
+Trabajamos con emprendedores turísticos locales, comunidades rurales y operadores de glamping para fomentar el turismo responsable, la valorización del territorio y la dinamización de economías regionales.
+
+En Ecosphere, creemos en el poder de la tecnología y la comunidad para generar un impacto positivo en el sector turístico.
+
+**Misión**  
+Brindar experiencias de glamping personalizadas y accesibles en todo el Perú, integrando tecnología, sostenibilidad y colaboración con actores locales para transformar el turismo en una práctica inclusiva y descentralizada.
+
+**Visión**  
+Convertirnos en la plataforma líder de turismo de naturaleza de lujo accesible en Latinoamérica, promoviendo un nuevo estándar de viaje que equilibre comodidad, respeto ambiental y desarrollo local.
+
+#### 1.1.2. Perfiles de integrantes del equipo
+
+**Información**
+
+| Foto | Nombre | Código | Descripción |
+|------|--------|--------|-------------|
+| ![]() | Nombre: | Código: | Descripción: |
+| ![]() | Nombre: | Código: | Descripción: |
+| ![Daniel Ruiz](images/cap1/Daniel.jpeg) | Daniel Elias Ruiz Huisa | 202210764 | Soy un estudiante entusiaste que busca sacar el maximo provecho al aprendisaje. Adoro los videojuegos, la matematica oculta detras de los algoritmos y la musica. |
+| ![]() | Nombre: | Código: | Descripción: |
+| ![]() | Nombre: | Código: | Descripción: |
+
+---
+
+### 1.2. Solution Profile
+
+#### 1.2.1. Antecedentes y problemática
+
+En los últimos años, el Perú ha experimentado un resurgimiento del sector turístico, impulsado por el deseo de reconexión con la naturaleza y la búsqueda de experiencias únicas post-pandemia. Sin embargo, la oferta de turismo de lujo como el glamping sigue siendo limitada, costosa y centralizada en pocos lugares turísticos de renombre.
+
+Sin una solución efectiva para democratizar esta experiencia, el problema ha contribuido a la concentración económica en ciertos destinos y a la exclusión de sectores con menor poder adquisitivo. Parte de la oferta actual es desarrollada por actores privados que no consideran una expansión territorial equitativa, lo que agrava las brechas sociales y limita el impacto económico positivo en comunidades rurales.
+
+**Problemática (6W + 1H)**
+
+- **What (Qué):** Falta de acceso descentralizado, personalizado y asequible al turismo de lujo tipo glamping en el Perú.  
+- **When (Cuándo):** Especialmente evidente después del resurgimiento del turismo post-pandemia.  
+- **Where (Dónde):** En regiones con potencial turístico aún no desarrollado: sierra, selva, y zonas costeras alternativas del Perú.  
+- **Who (Quiénes):** Afecta a turistas nacionales y extranjeros con presupuesto medio, y a comunidades rurales con potencial turístico.  
+- **Why (Por qué):** Porque las propuestas actuales están centralizadas, son gestionadas por pocos operadores y mantienen precios elevados.  
+- **How (Cómo):** Limita la inclusión de nuevos públicos en el turismo de lujo y frena el desarrollo de regiones fuera del circuito tradicional.  
+- **How much (Cuánto):** Se estima que un 70% del turismo de lujo se concentra en menos del 15% del territorio nacional, generando oportunidades perdidas en regiones rurales con alto valor ecológico y cultural.
+
+#### 1.2.2. Lean UX Process
+
+##### 1.2.2.1. Lean UX Problem Statements
+
+Los viajeros buscan experiencias inmersivas y únicas en la naturaleza, pero el turismo de lujo tipo glamping en el Perú aún es inaccesible para muchos debido a su centralización, altos costos y limitada personalización.
+
+Esto impide que segmentos de viajeros con presupuestos medios puedan disfrutar de este tipo de experiencias y que comunidades rurales con alto potencial turístico participen del desarrollo económico que genera el turismo.
+
+*¿Cómo podríamos diseñar una plataforma digital que permita ofrecer experiencias de glamping más accesibles, personalizadas y descentralizadas en el Perú, beneficiando tanto a los viajeros como a las comunidades locales?*
+
+##### 1.2.2.2. Lean UX Assumptions
+
+**Business Assumptions:**
+
+- Las personas están dispuestas a pagar por experiencias glamping si pueden personalizarlas y se les ofrece a precios más accesibles.  
+- Hay comunidades y emprendedores rurales interesados en ofrecer espacios para glamping.  
+- Una plataforma centralizada puede reducir los costos de operación y aumentar la visibilidad de las experiencias.  
+
+**Business Outcomes:**
+
+- Incremento del número de reservas en la plataforma en un 30% en los primeros 6 meses.  
+- Inclusión de al menos 10 nuevas locaciones de glamping en zonas no tradicionales durante el primer año.  
+- Generación de ingresos sostenibles para aliados rurales locales.  
+
+**User Benefits:**
+
+- Mayor acceso a experiencias glamping a menor precio y con personalización según intereses (aventura, descanso, romance, etc.).  
+- Interfaz amigable y clara para elegir locación, tipo de alojamiento, servicios y actividades.  
+- Seguridad y confianza mediante gestión profesional desde la misma plataforma.  
+
+##### 1.2.2.3. Lean UX Hypothesis Statements
+
+- **Hipótesis 1:** Creemos que al permitir a los usuarios personalizar su experiencia de glamping (ubicación, servicios y actividades), especialmente para viajeros jóvenes y parejas, sabremos que hemos tenido éxito cuando el 60% de los usuarios personalicen al menos dos elementos de su experiencia al momento de la reserva.  
+- **Hipótesis 2:** Creemos que al ofrecer experiencias de glamping en regiones descentralizadas mediante acuerdos con emprendedores locales, sabremos que hemos tenido éxito cuando el 40% de las reservas se realicen en destinos no tradicionales en los primeros seis meses.  
+- **Hipótesis 3:** Creemos que al implementar una plataforma digital centralizada con opciones flexibles y visuales, sabremos que hemos tenido éxito cuando al menos el 80% de los usuarios completen una reserva sin necesidad de asistencia externa.  
+
+##### 1.2.2.4. Lean UX Canvas
+
+**Business Problem:**  
+El turismo de lujo tipo glamping está actualmente centralizado, limitado a un público exclusivo y con escasa presencia fuera de las rutas turísticas tradicionales. Esto reduce las oportunidades de desarrollo turístico en otras regiones y excluye a viajeros con presupuestos medios.
+
+**Users & Customers:**
+
+- Viajeros millennials y generación Z interesados en experiencias únicas y sostenibles.  
+- Parejas en busca de escapadas románticas con estilo y confort.  
+- Emprendedores rurales que poseen terrenos con potencial turístico.  
+- Turistas extranjeros que buscan opciones auténticas fuera de los circuitos tradicionales.  
+
+**Hypotheses:**
+
+- Si ofrecemos experiencias de glamping personalizadas a precios accesibles, más personas reservarán fuera de los destinos tradicionales.  
+- Si involucramos a comunidades rurales, aumentará la oferta y se fomentará el desarrollo económico local.  
+
+**Solution Ideas:**
+
+- Plataforma con filtros dinámicos para personalizar la experiencia.  
+- Sistema de alianzas con emprendedores locales y formación turística.  
+- Evaluaciones en línea y reseñas confiables para cada experiencia.  
+- Suscripciones o membresías para beneficios exclusivos.  
+
+**What’s the most important thing we need to learn first?**  
+Validar que existe un mercado interesado en experiencias glamping accesibles y que las comunidades estarían dispuestas a ofrecer sus espacios.
+
+**Business Outcomes:**
+
+- Aumento de reservas en un 30% trimestral.  
+- Alianzas activas con al menos 10 comunidades en el primer año.  
+- Reducción de costos operativos en un 20% gracias a la gestión digital centralizada.  
+
+**User Benefits:**
+
+- Más opciones, más flexibilidad y mejor precio.  
+- Conexión real con la naturaleza y la cultura local.  
+- Confianza, seguridad y experiencia gestionada profesionalmente.  
+
+**What’s the least amount of work we need to do to learn the next most important thing?**  
+Desarrollar un MVP funcional de la plataforma con 3 ubicaciones de prueba, opción de personalización básica y seguimiento de la experiencia del usuario desde la reserva hasta el post-estancia.
+
+---
+
+### 1.3. Segmentos objetivo
+
+**Perfil 1: Jóvenes adultos (25-35 años)**  
+- Estilo de vida: Aventureros, tech-savvy, buscan experiencias auténticas pero con comodidad.  
+- Motivaciones: Escapadas de fin de semana, turismo interno, contacto con la naturaleza sin perder el confort.  
+- Comportamiento digital: Usan apps/webs para planificar viajes, confían en reseñas, valoran la personalización.  
+- Presupuesto: Medio, pero buscan optimizar valor por su dinero.  
+
+**Perfil 2: Parejas y nómadas digitales**  
+- Estilo de vida: Buscan lugares tranquilos, románticos o inspiradores.  
+- Motivaciones: Desconexión, relax, celebraciones, trabajar remotamente desde lugares diferentes.  
+- Comportamiento digital: Valoran privacidad, vistas únicas, buenas fotos y conexión a internet.  
+
+**Perfil 3: Turistas extranjeros interesados en experiencias fuera del circuito tradicional**  
+- Estilo de vida: Curiosos, con interés en la cultura local y sostenibilidad.  
+- Motivaciones: Vivir el Perú desde una perspectiva diferente, con servicios seguros y bien organizados.  
+- Comportamiento digital: Planifican con antelación, usan portales globales de viaje, valoran la autenticidad.  
+
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
