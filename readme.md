@@ -27,7 +27,7 @@ Convertirnos en la plataforma líder de turismo de naturaleza de lujo accesible 
 | ![]() | Nombre: | Código: | Descripción: |
 | ![]() | Nombre: | Código: | Descripción: |
 | ![Daniel Ruiz](images/cap1/Daniel.jpeg) | Daniel Elias Ruiz Huisa | 202210764 | Soy un estudiante entusiaste que busca sacar el maximo provecho al aprendizaje. Adoro los videojuegos, la matematica oculta detras de los algoritmos y la musica. |
-| ![]() | Nombre: | Código: | Descripción: |
+| ![Juan Quijano](images/cap1/Juan.jpeq) |Juan Miguel Quijano Calderón | u20221068|Mi nombre es Juan Quijano, tengo 20 años y soy un estudiante de la carrera de Ingeniería de Software. Tengo conocimientos intermedios en programación y quisiera dedicarme eventualmente al desarrollo y uso de IA. |
 | ![]() | Nombre: | Código: | Descripción: |
 
 ---
