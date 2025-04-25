@@ -249,7 +249,7 @@ https://drive.google.com/file/d/17AFZaJjcbcRVmYiHYgJDLiXQZu9t8cME/view?usp=shari
 
 Desarrollados a partir de las entrevistas.
 
-![4.](images/cap2/UserPersona_1.png)
+![4.]([images/cap2/UserPersona_1.png](https://github.com/JuanqQuijano/Aplicaciones-Open-Source-Grupo-4/blob/b4b25c4ffe910d32a9258f80a2038295506492e3/images/cap2/UserPersona_1.png))
 ![5.](images/cap2/UserPersona_2.png)
 ---
 
