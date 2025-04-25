@@ -1,4 +1,4 @@
-## Capítulo I: Daniel
+## Capítulo I
 
 ### 1.1. Startup Profile
 
