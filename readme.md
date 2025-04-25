@@ -27,8 +27,8 @@ Convertirnos en la plataforma líder de turismo de naturaleza de lujo accesible 
 | ![]() | Nombre: | Código: | Descripción: |
 | ![]() | Nombre: | Código: | Descripción: |
 | ![Daniel Ruiz](images/cap1/Daniel.jpeg) | Daniel Elias Ruiz Huisa | 202210764 | Soy un estudiante entusiaste que busca sacar el maximo provecho al aprendizaje. Adoro los videojuegos, la matematica oculta detras de los algoritmos y la musica. |
-| ![Juan Quijano](images/cap1/Juan.jpeg) |Juan Miguel Quijano Calderón | u20221068|Mi nombre es Juan Quijano, tengo 20 años y soy un estudiante de la carrera de Ingeniería de Software. Tengo conocimientos intermedios en programación y quisiera dedicarme eventualmente al desarrollo y uso de IA. |
-| ![]() | Nombre: | Código: | Descripción: |
+| ![Juan Quijano](images/cap1/Juan.jpeg) |Juan Miguel Quijano Calderón | u20221068| Mi nombre es Juan Quijano, tengo 20 años y soy un estudiante de la carrera de Ingeniería de Software. Tengo conocimientos intermedios en programación y quisiera dedicarme eventualmente al desarrollo y uso de IA. |
+| ![]() | Poly Gabriel Alcantara Baldeon| U202418250 | Descripción:Soy estudiante de Ingenieria de Software. Tengo conocimientos basicos en c#, Java y Python. Me gustaria aprender mas sobre desarrollo de videojuegos
 
 ---
 
@@ -338,3 +338,46 @@ Este vocabulario facilita la comunicación entre diseñadores, desarrolladores, 
 
 
 ---
+
+### 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+En la plataforma web de Ecoshpere, se ha optado principalmente por una estructura jerárquica, tanto en la página principal como en las vistas internas, permitiendo que los usuarios naveguen por diferentes secciones de manera clara y estructurada. Desde la barra de navegación se accede a módulos como “Inicios” "Destinos", "Experiencias", "Eventos".
+Durante el proceso de reserva, se aplica una organización lineal, donde el usuario selecciona una ubicación, configura los servicios deseados (como alimentación, actividades, tipo de alojamiento), y avanza paso a paso hasta finalizar el pago. Esto permite una experiencia intuitiva y guiada.
+Para los anfitriones (emprendedores rurales), también se utiliza una organización jerárquica, ya que se gestionan distintos aspectos como la publicación de hospedajes, edición de información, seguimiento de reservas y estadísticas de visitas. Estas funcionalidades están claramente segmentadas para facilitar la administración eficiente de sus espacios.
+
+### 4.2.3. SEO Tags and Meta Tags 
+Título:
+El título es el encabezado que aparecerá en la pestaña del navegador y en los resultados de búsqueda. En este caso, el título sería:
+"Glamping Perú - Vive la naturaleza con estilo"
+
+Codificación de caracteres:
+La codificación de caracteres asegura que el contenido de la página web se muestre correctamente en todos los navegadores. Esto se define para soportar una amplia gama de caracteres, como acentos y caracteres especiales.
+
+Descripción:
+La descripción es un resumen breve y atractivo que aparece en los resultados de búsqueda debajo del título. Es importante que incluya palabras clave relacionadas con el contenido del sitio. Aquí está la descripción:
+"Plataforma de reservas de glamping en el Perú. Escapadas únicas, accesibles y personalizadas para reconectar con la naturaleza sin perder el confort."
+
+Autor y derechos de autor:
+Esta parte se refiere a la identificación del autor del contenido y la protección legal del mismo. En este caso:
+Autor: "Equipo Glamping Perú"
+
+### 4.2.4. Searching Systems
+
+El sistema de búsqueda de la plataforma Oasis está diseñado para facilitar la personalización y rapidez en la selección de experiencias de glamping. Se implementa un motor de búsqueda con filtros dinámicos que permite a los usuarios encontrar destinos según sus preferencias específicas.
+Características:
+Búsqueda por filtros: ubicación, tipo de alojamiento (domo, yurta, cabaña), rango de precios, tipo de experiencia (romántica, familiar, aventura), y servicios disponibles (wifi, desayuno, jacuzzi, etc.).
+Búsqueda predictiva/autocompletado: al escribir el nombre de una región o destino, se sugieren opciones populares.
+Historial de búsqueda y recomendaciones: el sistema muestra búsquedas recientes y destinos recomendados según las elecciones anteriores del usuario.
+
+### 4.2.5. Navigation Systems
+
+El sistema de navegación está diseñado para ofrecer una experiencia fluida, intuitiva y accesible tanto en dispositivos móviles como en escritorio. Se basa en un enfoque jerárquico con elementos lineales para el proceso de reserva.
+Características:<br>
+-Menú de navegación superior fijo: incluye secciones como Inicio, Destinos, Experiencias, Eventos y Mi Cuenta.<br>
+-Navegación por etapas (lineal) para reservas: el usuario sigue un flujo paso a paso: elegir destino → seleccionar alojamiento → configurar servicios → confirmar reserva.<br>
+-Accesos directos visuales: uso de tarjetas clicables con imágenes destacadas que conducen a destinos o categorías populares.
+
+
+
