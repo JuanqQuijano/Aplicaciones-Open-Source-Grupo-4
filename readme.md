@@ -382,7 +382,7 @@ Esta aplicación representa una propuesta innovadora de turismo de lujo accesibl
 - Subtítulo:  
   _"DESCUBRE DESTINOS SORPRENDENTES"_
 - Botón CTA: **"INGRESA AQUÍ"**
-
+![U202315966](imagen/cap4/1.png)
 ### 4.1.3. Mobile Style Guidelines
 
 - Colores: Menta pastel + Azul marino oscuro.
