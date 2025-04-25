@@ -28,7 +28,7 @@ Convertirnos en la plataforma líder de turismo de naturaleza de lujo accesible 
 | ![]() | Nombre: | Código: | Descripción: |
 | ![Daniel Ruiz](images/cap1/Daniel.jpeg) | Daniel Elias Ruiz Huisa | 202210764 | Soy un estudiante entusiaste que busca sacar el maximo provecho al aprendizaje. Adoro los videojuegos, la matematica oculta detras de los algoritmos y la musica. |
 | ![Juan Quijano](images/cap1/Juan.jpeg) |Juan Miguel Quijano Calderón | u20221068|Mi nombre es Juan Quijano, tengo 20 años y soy un estudiante de la carrera de Ingeniería de Software. Tengo conocimientos intermedios en programación y quisiera dedicarme eventualmente al desarrollo y uso de IA. |
-| ![]() | Nombre: | Código: | Descripción: |
+| ![]() | Poly Gabriel Alcantara Baldeon | U202418250 | Soy estudiante de Ingenieria de Software. Tengo conocimientos basicos en c#, Java y Python. Me gustaria aprender mas sobre desarrollo de videojuegos |
 
 ---
 
@@ -420,3 +420,22 @@ Esta aplicación representa una propuesta innovadora de turismo de lujo accesibl
 <meta name="description" content="Plataforma de reservas de glamping en el Perú. Escapadas únicas, accesibles y personalizadas para reconectar con la naturaleza sin perder el confort.">
 <meta name="author" content="Equipo Glamping Perú">
 <meta name="copyright" content="© 2025 Glamping Perú">
+```
+
+### 4.2.4. Searching Systems
+
+El sistema de búsqueda de la plataforma Oasis está diseñado para facilitar la personalización y rapidez en la selección de experiencias de glamping. Se implementa un motor de búsqueda con filtros dinámicos que permite a los usuarios encontrar destinos según sus preferencias específicas.
+Características:
+Búsqueda por filtros: ubicación, tipo de alojamiento (domo, yurta, cabaña), rango de precios, tipo de experiencia (romántica, familiar, aventura), y servicios disponibles (wifi, desayuno, jacuzzi, etc.).
+Búsqueda predictiva/autocompletado: al escribir el nombre de una región o destino, se sugieren opciones populares.
+Historial de búsqueda y recomendaciones: el sistema muestra búsquedas recientes y destinos recomendados según las elecciones anteriores del usuario.
+
+### 4.2.5. Navigation Systems
+
+El sistema de navegación está diseñado para ofrecer una experiencia fluida, intuitiva y accesible tanto en dispositivos móviles como en escritorio. Se basa en un enfoque jerárquico con elementos lineales para el proceso de reserva.
+Características:<br>
+- Menú de navegación superior fijo: incluye secciones como Inicio, Destinos, Experiencias, Eventos y Mi Cuenta.<br>
+- Navegación por etapas (lineal) para reservas: el usuario sigue un flujo paso a paso: elegir destino → seleccionar alojamiento → configurar servicios → confirmar reserva.<br>
+- Accesos directos visuales: uso de tarjetas clicables con imágenes destacadas que conducen a destinos o categorías populares.
+
+
