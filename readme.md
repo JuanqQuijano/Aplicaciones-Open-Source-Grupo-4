@@ -585,6 +585,21 @@ Se estima una capacidad de n Story Points para este sprint, tomando en cuenta la
  | US01 | Sección de contacto | TS04 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4 |  | Done
 
  #### 5.2.1.4. Development Evidence for Sprint Review.
+ En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 1 indicando el repositorio en la cual se trabajo las ramas que se usaron dentro de dicho repositorio, el id con su mensaje y la fecha en la que se realizo de esta manera tener un registro del avance de los task planteados.
+
+| Repository          | Branch            | Commit Id | Commit Message           | Commit Message Body            | Committed on (Date) |
+|---------------------|-------------------|-----------|--------------------------|--------------------------------|---------------------|
+| https://g ithub.com/AplicacionesWebGrupo1/ Landing-page-CicloVia  | develop/styles.css | 095c8984d560b6c89642c83e6fa0aa174cd479c3      | Update styles.css       | -- | 25/04/2024  |
+|   | develop/styles.css |       |        | -- | 25/04/2024  |
+|   | develop/styles.css |       |        | -- | 25/04/2024  |
+|   | develop/styles.css |       |        | -- | 25/04/2024  |
+|   | develop/styles.css |       |        | -- | 25/04/2024  |
+|   | develop/styles.css |       |        | -- | 25/04/2024  |
+|   | develop/styles.css |       |        | -- | 25/04/2024  |
+|   | develop/styles.css |       |        | -- | 25/04/2024  |
+|   | develop/styles.css |       |        | -- | 25/04/2024  |
+
+
  
  #### 5.2.1.5. Execution Evidence for Sprint Review.
  
