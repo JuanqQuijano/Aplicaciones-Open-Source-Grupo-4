@@ -584,6 +584,16 @@ Se estima una capacidad de n Story Points para este sprint, tomando en cuenta la
  | US01 | Redes Sociales y Footer | TS04 | Redes Sociales y Footer (Desarrollado en HTML, CSS y JS).| Crear un footer con enlaces a redes sociales, optimizado para diferentes resoluciones de pantalla, asegurando su visibilidad en todo tipo de dispositivos.| 4 |  | Done
  | US01 | Sección de contacto | TS04 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4 |  | Done
 
+ #### 5.2.1.4. Development Evidence for Sprint Review.
+ 
+ #### 5.2.1.5. Execution Evidence for Sprint Review.
+ 
+ #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+ 
+ #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+ 
+ #### 5.2.1.8. Team Collaboration Insights during Sprint.
+ 
 
 
 
