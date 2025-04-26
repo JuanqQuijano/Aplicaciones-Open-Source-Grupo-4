@@ -496,7 +496,7 @@ En esta sección, se detalla cómo manejamos y supervisamos el desarrollo del c�
 En RideFind, los commits se nombran de acuerdo con el avance y el contenido específico del trabajo realizado. No seguimos una convención rígida para los nombres de los commits; en su lugar, los desarrolladores utilizan descripciones claras y concisas para reflejar las modificaciones implementadas. Esto nos permite una mayor flexibilidad a la hora de registrar el progreso, asegurando que cada commit tenga un nombre que represente con precisión el trabajo efectuado.
 
 #### 5.1.3. Source Code Style Guide & Conventions.
-n RideFind hemos implementado varias convenciones de estilo para asegurar un desarrollo de código claro y consistente en distintos lenguajes y tecnologías:
+Hemos implementado varias convenciones de estilo para asegurar un desarrollo de código claro y consistente en distintos lenguajes y tecnologías:
 
 1. El tipo de documento se declara al inicio del archivo con `<!DOCTYPE html>`.
 
@@ -541,5 +541,29 @@ n RideFind hemos implementado varias convenciones de estilo para asegurar un des
 11. Se separan los escenarios con un comentario y dos líneas en blanco.
 
 Estas convenciones nos ayudan a mantener el código organizado, legible y coherente a lo largo del proyecto.
+
+#### 5.1.4. Software Deployment Configuration.
+
+Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el servicio automatizado en la nube de GitHub Pages. A continuación, detallaremos los pasos necesarios para lograr este proceso.
+
+### 5.2. Landing Page, Services & Applications Implementation.
+#### 5.2.1. Sprint 1.
+#### 5.2.1.1. Sprint Planning 1.
+
+| Sprint #              | Sprint 1 |
+|-----------------------|----------|
+| **Sprint Planning Background** |          |
+| **Date**              | 23/04/2025 |
+| **Time**              | 19:00 horas (GMT-5) |
+| **Location**          | Virtual (Google Meet) |
+| **Prepared By**       |  |
+| **Attendees (to planning meeting)** |     |
+| **Sprint 1 Review Summary** |  |
+| **Sprint 1 Retrospective Summary** | |
+| **Sprint Goal & User Stories** |          |
+| **Sprint 1 Goal**     | Completar las principales secciones de la Landing Page de la aplicación , permitiendo a los usuarios explorar y familiarizarse con la plataforma. |
+| **Sprint 1 Velocity** | **8**  
+Se estima una capacidad de n Story Points para este sprint, tomando en cuenta las tareas relacionadas con el desarrollo de la Landing Page. |
+| **Sum of Story Points** | n |
 
 
