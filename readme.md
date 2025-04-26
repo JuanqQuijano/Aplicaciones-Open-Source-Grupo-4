@@ -468,4 +468,78 @@ En esta sección, detallaremos las herramientas y plataformas que hemos utilizad
 
 #### 5.1.2. Source Code Management.
 
+**Gestión del Código Fuente:**
+
+En esta sección, se detalla cómo manejamos y supervisamos el desarrollo del código para el proyecto. Utilizamos GitHub como nuestra plataforma principal para la gestión del código fuente, complementada por Git como sistema de control de versiones. Además, seguimos el flujo de trabajo GitFlow para estructurar el desarrollo de manera eficiente.
+
+- Repositorio GitHub para nuestra Landing Page:(pendiente)
+
+**Ramas Principales:**
+- **main:** Esta rama, a menudo llamada "master", contiene la versión más estable y final del proyecto, lista para ser desplegada en producción. Los cambios integrados en esta rama han pasado todas las pruebas y revisiones necesarias, y se consideran completamente preparados para su lanzamiento.
+
+- **develop:** La rama develop es el punto central de integración para las nuevas funcionalidades y mejoras en desarrollo. Las características y correcciones se fusionan en esta rama, donde se realizan pruebas adicionales antes de su eventual integración en la rama main.
+
+**Ramas Auxiliares:**
+
+- **releases:** Las ramas de tipo releases se crean para preparar nuevas versiones del proyecto. En estas ramas se llevan a cabo las pruebas finales y se corrigen errores menores antes del lanzamiento oficial. Una vez que una versión ha sido validada, los cambios se integran en la rama develop para futuros desarrollos y luego se fusionan en la rama main para su despliegue.
+
+**Uso de GitFlow:**
+
+- **Feature Branches:** Se utilizan ramas de características para desarrollar nuevas funcionalidades. Estas ramas se crean a partir de la rama develop y, una vez que se completa el desarrollo y se aprueban las revisiones, se fusionan nuevamente en la rama develop.
+
+- **Bugfix Branches:** Para solucionar errores que necesitan ser corregidos antes de la siguiente versión, se utilizan ramas de corrección de errores. Estas ramas se crean a partir de la rama develop o, en casos críticos, desde la rama main.
+
+- **Hotfix Branches:** Se emplean para abordar errores críticos que requieren una solución urgente en producción. Estas ramas se crean a partir de la rama main, y una vez que el problema se resuelve, los cambios se fusionan tanto en la rama main como en la rama develop.
+
+**Commits Conventions:**
+
+En RideFind, los commits se nombran de acuerdo con el avance y el contenido específico del trabajo realizado. No seguimos una convención rígida para los nombres de los commits; en su lugar, los desarrolladores utilizan descripciones claras y concisas para reflejar las modificaciones implementadas. Esto nos permite una mayor flexibilidad a la hora de registrar el progreso, asegurando que cada commit tenga un nombre que represente con precisión el trabajo efectuado.
+
+#### 5.1.3. Source Code Style Guide & Conventions.
+n RideFind hemos implementado varias convenciones de estilo para asegurar un desarrollo de código claro y consistente en distintos lenguajes y tecnologías:
+
+1. El tipo de documento se declara al inicio del archivo con `<!DOCTYPE html>`.
+
+2. Se añaden los meta tags necesarios.
+
+3. La etiqueta `<title>` se incluye dentro del bloque `<head>`.
+
+4. Usamos una indentación de dos espacios.
+
+5. Se escriben en minúsculas los nombres de los elementos HTML, atributos, propiedades, valores y selectores CSS.
+
+6. Los atributos de los elementos HTML siempre están entre comillas.
+
+7. Cada elemento HTML debe contar con su etiqueta de cierre.
+
+8. Se evita escribir líneas de código demasiado largas.
+
+9. Para las imágenes, se especifican tanto el ancho y alto como el texto alternativo.
+
+<b>JavaScript</b>
+
+1. Cada línea de código termina con un punto y coma.
+
+2. Las variables y funciones siguen la convención de CamelCase.
+
+3. Las cadenas de texto (strings) se colocan entre comillas simples.
+
+4. La indentación es de 2 espacios.
+
+5. Se utiliza preferentemente let y const en lugar de var para declarar variables.
+
+6. Gherkin (Convenciones de Gherkin para Especificaciones Legibles)
+
+7. Se utilizan los términos "Given", "When", "Then" y "And" para definir los pasos del escenario.
+
+8. Los pasos que comienzan con "And" se indentan.
+
+9. Se deja una línea en blanco entre los pasos.
+
+10. Los parámetros se colocan entre comillas simples.
+
+11. Se separan los escenarios con un comentario y dos líneas en blanco.
+
+Estas convenciones nos ayudan a mantener el código organizado, legible y coherente a lo largo del proyecto.
+
 
