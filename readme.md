@@ -434,9 +434,11 @@ Características:<br>
 - Accesos directos visuales: uso de tarjetas clicables con imágenes destacadas que conducen a destinos o categorías populares.
 
 ## 4.3. Landing Page UI Design
-### 4.3.1 Landing Page Wireframe
+### 4.3.1. Landing Page Wireframe
 
 ![](images/cap4/LandingPageWireframe.png)
+
+### 4.3.2. Landing Page Mock-up
 
 
 
