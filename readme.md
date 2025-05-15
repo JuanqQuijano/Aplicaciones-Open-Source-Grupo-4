@@ -348,6 +348,7 @@ Nuestro producto busca transmitir una experiencia de lujo accesible, relajante y
 
 - **Logo**:  
 Esta aplicación representa una propuesta innovadora de turismo de lujo accesible, conocida como Oasis. El logo refleja esta visión al combinar elementos naturales y modernos: el avión representa el viaje y la conexión con nuevos destinos, mientras que la palmera y el mar evocan la tranquilidad y el contacto con la naturaleza. La luna llena sugiere noches serenas al aire libre, una característica distintiva del glamping. Los colores suaves y relajantes refuerzan la idea de descanso y desconexión, pilares fundamentales de nuestra propuesta. Este logo busca transmitir aventura, accesibilidad y confort en armonía con el entorno natural.
+![logo](images/cap4/logo.png)
 
 - **Tipografía**:  
   - Títulos: *Poppins*, tamaño 56px.  
