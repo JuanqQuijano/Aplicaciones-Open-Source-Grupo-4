@@ -433,6 +433,9 @@ Características:<br>
 - Navegación por etapas (lineal) para reservas: el usuario sigue un flujo paso a paso: elegir destino → seleccionar alojamiento → configurar servicios → confirmar reserva.<br>
 - Accesos directos visuales: uso de tarjetas clicables con imágenes destacadas que conducen a destinos o categorías populares.
 
+## 4.3. Landing Page UI Design
+### 4.3.1 Landing Page Wireframe
+
 
 
 
