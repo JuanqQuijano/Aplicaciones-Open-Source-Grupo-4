@@ -377,7 +377,6 @@ Esta aplicación representa una propuesta innovadora de turismo de lujo accesibl
 
 El sitio web de Oasis Perú presenta un diseño limpio y moderno,  empleando una atractiva paleta de colores turquesa y azul marino que refuerza su identidad de marca. La navegación es intuitiva, con un menú superior que incluye las opciones 'Inicio', 'Destinos', 'Experiencias' y 'Eventos', claramente visibles y espaciadas de forma óptima para una fácil interacción. El titular principal, "TU DESTINO TE ESTÁ ESPERANDO", en negrita sobre un fondo turquesa claro, atrae inmediatamente la atención del usuario. La frase secundaria, "DESCUBRE DESTINOS SORPRENDENTES", complementa el titular, invitando a la exploración. Un botón de llamada a la acción, "INGRESA AQUÍ", guía al usuario hacia una experiencia inmersiva. En conjunto, el diseño es visualmente atractivo y facilita la navegación, creando una experiencia de usuario positiva y coherente con la propuesta de Oasis Perú.
 
-![U202315966](images/cap4/1.png)
 ### 4.1.3. Mobile Style Guidelines
 
 - Colores: Menta pastel + Azul marino oscuro.
@@ -440,7 +439,11 @@ Características:<br>
 
 ### 4.3.2. Landing Page Mock-up
 
+![U202315966](images/cap4/1.png) 
 
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management.
