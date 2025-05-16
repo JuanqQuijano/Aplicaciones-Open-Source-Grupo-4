@@ -445,13 +445,23 @@ Características:<br>
 
 ### 4.4.1. Web Applications Wireframes
 
+Wireframe Inicio de Sesión
+
 ![](images/cap4/WireframeInicioSesión.png) 
+
+Wireframe Registrarse
 
 ![](images/cap4/WireframeRegistrarse.png) 
 
+Wireframe Destinos
+
 ![](images/cap4/WireframeDestinos.png) 
 
+Wireframe Eventos
+
 ![](images/cap4/WireframeEventos.png) 
+
+Wireframe Experiencias
 
 ![](images/cap4/WireframeExperiencias.png) 
 
