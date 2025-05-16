@@ -471,6 +471,16 @@ Wireframe Experiencias
 
 ![](images/cap4/WireflowDiagrams2.png) 
 
+### 4.4.3. Web Applications Mock-ups
+
+![](images/cap4/InicioSesión.png) 
+
+![](images/cap4/Registrarse.png) 
+
+![](images/cap4/Destinos.png) 
+
+![](images/cap4/Eventos.png) 
+
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management.
 #### 5.1.1. Software Development Environment Configuration.
