@@ -481,6 +481,8 @@ Wireframe Experiencias
 
 ![](images/cap4/Eventos.png) 
 
+![](images/cap4/Experiencias.png) 
+
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management.
 #### 5.1.1. Software Development Environment Configuration.
