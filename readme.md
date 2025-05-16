@@ -467,7 +467,9 @@ Wireframe Experiencias
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+![](images/cap4/WireflowDiagrams1.png) 
 
+![](images/cap4/WireflowDiagrams2.png) 
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management.
